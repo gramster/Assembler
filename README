@@ -1,8 +1,8 @@
 An assembler and linker for a RISC processor. When I started my Masters
 in 1986 the plan was that we would build this chip and implement UNIX on it.
 I did the instruction set design and wrote the assembler and linker. Someone
-else was supposed to do the silicon, but they bailed and the project was
-cancelled. 
+else was supposed to do the silicon in an industry partnership, but they
+dropped out and the project was cancelled. 
 
 I used what I learned to create an assmebler for 80386, also included here.
 Note that I don't remember what state the latter is in, and if it is complete

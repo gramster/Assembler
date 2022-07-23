@@ -9,8 +9,9 @@ I designed the instruction set and encoding and wrote the assembler and
 linker. Another person was building the C compiler and a third person
 was supposed to do the silicon in an industry partnership, but they
 dropped out, which meant the hardware would not materialize, and the
-project was cancelled. After spending a year teaching compiler construction
-to 3rd year and compiler optimization to 4th year students, I started a 
+project was cancelled after a few months. After spending the next semester
+teaching compiler construction to 3rd year and compiler optimization to 
+4th year students (something I continued for the next 6 years), I started a 
 new graduate program building what became the 
 [Protocol Engineering Workbench](https://github.com/gramster/PEW).
 
@@ -19,3 +20,6 @@ Note that I don't remember what state the latter is in, and if it is complete
 or not. I wrote a simulator too, so that we could bootstrap the project 
 while we waited for the silicon, but I don't seem to have a copy of that
 code any more.
+
+I keep promising myself that one day I'll build this chip as an FPGA,
+just to validate my design. Good retirement project :-).
